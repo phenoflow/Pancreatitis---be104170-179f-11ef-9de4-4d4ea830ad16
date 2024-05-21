@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/acute-pancreatitis---primary.py
+inputModule3:
+  class: File
+  path: python/pancreatitis---primary.py
+inputModule4:
+  class: File
+  path: python/pancreatitis-history---primary.py
+inputModule5:
+  class: File
+  path: python/pancreatitis-alcoholinduced---primary.py
+inputModule6:
+  class: File
+  path: python/pancreatitis-gallstone---primary.py
+inputModule7:
+  class: File
+  path: python/pancreatitis-pseudocyst---primary.py
+inputModule8:
+  class: File
+  path: python/other-pancreatitis---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-pancreatitis---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
